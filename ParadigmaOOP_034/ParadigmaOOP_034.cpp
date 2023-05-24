@@ -10,8 +10,4 @@ public:
 		nama(pNama) {
 		cout << "orangh dibuat\n" << endl;
 	}
-	~orang() {
-		cout << "orang dihapus\n" << endl;
-	}
-
 	
